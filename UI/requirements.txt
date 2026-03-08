@@ -1,0 +1,9 @@
+
+python-multipart
+opencv-python-headless
+numpy
+scikit-learn
+reportlab
+Pillow
+streamlit
+requests
