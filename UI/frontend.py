@@ -7,7 +7,7 @@ import os
 
 # ─── Config ──────────────────────────────────────────────────────────────────
 
-BACKEND_URL = "http://localhost:8000"
+BACKEND_URL = "https://handmade-ai-ten.vercel.app"  # Change to "http://localhost:8000" for local testing
 
 st.set_page_config(
     page_title="HandmadeAI · Paint by Numbers",
